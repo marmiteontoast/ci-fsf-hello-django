@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-s)3b&assq&fu8vo6fpeg!a51=7#$o500i_vpzc$vft6094zxxb
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['marmite-django-todo-app.herokuapp.com']
 
 
 # Application definition
